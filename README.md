@@ -12,7 +12,16 @@
 
 5 - check the index.html and use app.css and app.js wherever you like as you see.
 
-> you can run python's
+
+>TIP!
+You can use;
+* Python's simple http server with `python -m SimpleHTTPServer 8000`
+
+* PHP's development server with `php -S localhost:8000`
+
+* etc.
+to check your development results without any backend.
+
 
 
 
